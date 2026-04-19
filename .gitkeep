@@ -1,0 +1,6 @@
+# Run from inside your stocksense-ai/ folder
+
+touch data/.gitkeep
+touch data/raw/.gitkeep
+touch data/features/.gitkeep
+touch models/.gitkeep
