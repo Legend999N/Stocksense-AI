@@ -1,0 +1,234 @@
+{
+  "top_features": [
+    {
+      "feature": "OBV",
+      "importance": 0.6242624521255493
+    },
+    {
+      "feature": "return_lag_3",
+      "importance": 0.26700112223625183
+    },
+    {
+      "feature": "MACD_histogram",
+      "importance": 0.1892935037612915
+    },
+    {
+      "feature": "SMA_20",
+      "importance": 0.15116772055625916
+    },
+    {
+      "feature": "MACD",
+      "importance": 0.14805687963962555
+    },
+    {
+      "feature": "daily_return",
+      "importance": 0.13354314863681793
+    },
+    {
+      "feature": "ATR",
+      "importance": 0.12048542499542236
+    },
+    {
+      "feature": "volume_ratio",
+      "importance": 0.11863360553979874
+    },
+    {
+      "feature": "return_lag_2",
+      "importance": 0.11340028792619705
+    },
+    {
+      "feature": "Volume_SMA20",
+      "importance": 0.11114297807216644
+    }
+  ],
+  "all_features": [
+    {
+      "feature": "OBV",
+      "importance": 0.6243000030517578
+    },
+    {
+      "feature": "return_lag_3",
+      "importance": 0.2669999897480011
+    },
+    {
+      "feature": "MACD_histogram",
+      "importance": 0.18930000066757202
+    },
+    {
+      "feature": "SMA_20",
+      "importance": 0.15119999647140503
+    },
+    {
+      "feature": "MACD",
+      "importance": 0.14810000360012054
+    },
+    {
+      "feature": "daily_return",
+      "importance": 0.13349999487400055
+    },
+    {
+      "feature": "ATR",
+      "importance": 0.12049999833106995
+    },
+    {
+      "feature": "volume_ratio",
+      "importance": 0.11860000342130661
+    },
+    {
+      "feature": "return_lag_2",
+      "importance": 0.11339999735355377
+    },
+    {
+      "feature": "Volume_SMA20",
+      "importance": 0.11110000312328339
+    },
+    {
+      "feature": "rolling_std_5",
+      "importance": 0.10760000348091125
+    },
+    {
+      "feature": "BB_upper",
+      "importance": 0.10480000078678131
+    },
+    {
+      "feature": "close_lag_2",
+      "importance": 0.09780000150203705
+    },
+    {
+      "feature": "MACD_signal",
+      "importance": 0.09539999812841415
+    },
+    {
+      "feature": "HL_spread_lag1",
+      "importance": 0.09520000219345093
+    },
+    {
+      "feature": "SMA_50",
+      "importance": 0.08760000020265579
+    },
+    {
+      "feature": "BB_position",
+      "importance": 0.08550000190734863
+    },
+    {
+      "feature": "return_lag_5",
+      "importance": 0.08269999921321869
+    },
+    {
+      "feature": "return_lag_1",
+      "importance": 0.07580000162124634
+    },
+    {
+      "feature": "ATR_normalised",
+      "importance": 0.07249999791383743
+    },
+    {
+      "feature": "HL_spread",
+      "importance": 0.0722000002861023
+    },
+    {
+      "feature": "dist_from_SMA20",
+      "importance": 0.06790000200271606
+    },
+    {
+      "feature": "SMA_10",
+      "importance": 0.06769999861717224
+    },
+    {
+      "feature": "RSI",
+      "importance": 0.05889999866485596
+    },
+    {
+      "feature": "rolling_mean_5",
+      "importance": 0.05299999937415123
+    },
+    {
+      "feature": "dist_from_SMA50",
+      "importance": 0.04910000041127205
+    },
+    {
+      "feature": "OC_spread",
+      "importance": 0.04500000178813934
+    },
+    {
+      "feature": "BB_width",
+      "importance": 0.04089999943971634
+    },
+    {
+      "feature": "close_lag_1",
+      "importance": 0.03889999911189079
+    },
+    {
+      "feature": "rolling_std_20",
+      "importance": 0.03240000084042549
+    },
+    {
+      "feature": "close_lag_3",
+      "importance": 0.032099999487400055
+    },
+    {
+      "feature": "BB_middle",
+      "importance": 0.0284000001847744
+    },
+    {
+      "feature": "BB_lower",
+      "importance": 0.027000000700354576
+    },
+    {
+      "feature": "close_lag_5",
+      "importance": 0.023800000548362732
+    },
+    {
+      "feature": "EMA_26",
+      "importance": 0.016200000420212746
+    },
+    {
+      "feature": "price_above_SMA20",
+      "importance": 0.013199999928474426
+    },
+    {
+      "feature": "EMA_12",
+      "importance": 0.01209999993443489
+    },
+    {
+      "feature": "MACD_hist_increasing",
+      "importance": 0.009999999776482582
+    },
+    {
+      "feature": "RSI_normalised",
+      "importance": 0.006500000134110451
+    },
+    {
+      "feature": "SMA_crossover",
+      "importance": 0.00570000009611249
+    },
+    {
+      "feature": "high_volume",
+      "importance": 0.0017000000225380063
+    },
+    {
+      "feature": "RSI_oversold",
+      "importance": 0.0
+    },
+    {
+      "feature": "RSI_overbought",
+      "importance": 0.0
+    },
+    {
+      "feature": "BB_above_upper",
+      "importance": 0.0
+    },
+    {
+      "feature": "price_above_SMA50",
+      "importance": 0.0
+    },
+    {
+      "feature": "BB_below_lower",
+      "importance": 0.0
+    },
+    {
+      "feature": "MACD_bullish",
+      "importance": 0.0
+    }
+  ]
+}
