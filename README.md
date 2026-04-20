@@ -9,8 +9,8 @@ with SHAP-based explainability.
 
 ## Status
 - [x] Day 1 — Data pipeline + Feature engineering
-- [ ] Day 2 — ML model + Sentiment pipeline
-- [ ] Day 3 — Streamlit dashboard
+- [x] Day 2 — ML model + Sentiment pipeline
+- [x] Day 3 — Streamlit dashboard
 - [ ] Day 4 — Polish + Deployment
 
 ## Setup
@@ -22,6 +22,8 @@ python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python day1_pipeline.py
+python day2-pipeline.py
+python app.py
 ```
 
 ## Project Structure
