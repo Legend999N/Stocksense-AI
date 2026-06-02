@@ -7,11 +7,7 @@ sentiment analysis to predict short-term stock price direction,
 with SHAP-based explainability.
 
 
-## Status
-- [x] Day 1 — Data pipeline + Feature engineering
-- [x] Day 2 — ML model + Sentiment pipeline
-- [x] Day 3 — Streamlit dashboard
-- [ ] Day 4 — Polish + Deployment
+
 
 ## Setup
 
